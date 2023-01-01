@@ -1,5 +1,5 @@
-# Air-Vehecle
-This is a project used for Raspi-4B on air vehicles,it should be used with Ano_flight controller
+# Drone
+This is a project used for Raspi-4B on drones,it should be used with Ano_flight controller
 only free for STI members in Huazhong University of Science and Technology
 
 #Edition requirements
